@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.igia.cha2ds2vasc.api",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.4.2",
+    "applicationType": "microservice",
+    "baseName": "cha2ds2vascapi",
+    "packageName": "io.igia.cha2ds2vasc.api",
+    "packageFolder": "io/igia/cha2ds2vasc/api",
+    "serverPort": "8054",
+    "authenticationType": "oauth2",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjYxNzJhMzRlZDEyYzgzYjQ0ZjJlMjZjYTZiOTY2N2NiYWFkNzlkMmU5Zjk4NDliNjY3MzdjZjg1NjFkNWNiN2YyZjQxMGQ1MzZhMDY5YWMxMTYzYmJmNDUwOTZhYTc2NjFkZDE3NGZjZWFhZDQ1Y2VkNzYyN2VmOGYxODJjMmY=",
+    "enableTranslation": true,
+    "languages": [
+      "en"
+    ],
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "generator-jhipster-standalone-profile": {
+    "version": "2.3.0",
+    "server": true
+  }
+}

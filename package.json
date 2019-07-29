@@ -1,0 +1,19 @@
+{
+  "name": "cha2ds2-vasc-api",
+  "version": "0.0.0",
+  "description": "Description for cha2ds2vascapi",
+  "private": true,
+  "license": "UNLICENSED",
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "generator-jhipster": "5.4.2"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "dependencies": {
+    "generator-jhipster-standalone-profile": "^2.3.0"
+  }
+}
