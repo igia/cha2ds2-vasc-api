@@ -18,7 +18,7 @@
 
     <groupId>io.igia</groupId>
     <artifactId>cha2ds2-vasc-api</artifactId>
-    <version>0.3.0</version>
+    <version>0.3.2</version>
     <packaging>war</packaging>
     <name>Cha 2 Ds 2 Vascapi</name>
 
